@@ -3,7 +3,7 @@
 This is a course management project that allows user to create course, create instructors and allocate instructor to the course.
 
 ## Screenshots
-![Dashboard Screenshot](screenshots/course_panel.png)
+![Dashboard Screenshot](screenshots/courses_panel.png)
 
 
 ## Requirements
