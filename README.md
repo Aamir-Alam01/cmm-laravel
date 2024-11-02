@@ -5,6 +5,9 @@ This is a course management project that allows user to create course, create in
 ## Screenshots
 ![Dashboard Screenshot](screenshots/courses_panel.png)
 
+## Video
+[![Watch the video](https://img.youtube.com/vi/SWyB3eO2hf4/maxresdefault.jpg)](https://www.youtube.com/watch?v=SWyB3eO2hf4)
+
 
 ## Requirements
 
